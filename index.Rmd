@@ -1,7 +1,7 @@
 ---
 title: "Codificación de señales digitales"
 author: "Julio César Ramirez-Pacheco"
-date: "6/3/2020"
+date: "03/09/2020"
 output:
   html_document: default
   pdf_document: default
@@ -97,4 +97,4 @@ plot(time, bits, type= "l", main="NRZI", xlab="Tiempo", ylab="Valores")
 5. B8ZS.
 6. HDB3.
 
-Utilizando el lenguaje de programación R. Pueden utilizar la plataforma RStudio Cloud para poder realizarlo. Fecha de entrega: Dominggo 7 de Junio de 2020. Atte. Dr. Julio César Ramírez Pacheco.
+Utilizando el lenguaje de programación R. Pueden utilizar la plataforma RStudio Cloud para poder realizarlo. Fecha de entrega: Jueves 11 de Septiembre de 2020. Atte. Dr. Julio César Ramírez Pacheco.
